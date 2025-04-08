@@ -1,0 +1,19 @@
+{
+  "name": "elevator-backend",
+  "version": "1.0.0",
+  "description": "API RESTful para controlar un ascensor.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Daniel Ciro",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
