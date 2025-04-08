@@ -10,6 +10,6 @@ Este proyecto contiene la lógica del backend para un simulador de ascensor. Uti
 ## ▶️ Instalación
 
 ```bash
-git clone 
+git clone https://github.com/zdec/elevator-back.git
 cd elevator-backend
 npm install
